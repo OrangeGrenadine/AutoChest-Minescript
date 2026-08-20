@@ -52,3 +52,18 @@ Premièrement, rendez-vous en jeu. À vous de concevoir votre salle des coffres 
 > C'est probablement l'étape la plus longue. Si vous le souhaitez, vous pouvez déplacer à la racine de votre instance le fichier `SdC.json` situé dans le dossier `biblio` du dépôt. Il s'agit de mon propre template de salle des coffres pré-rempli héhé :)
 
 Si vous vous demandez où est rangé un item spécifique, prenez-le en main et exécutez la commande **`\getInfo`** en jeu.
+
+---
+
+## 🎮 Utilisation
+
+À présent, vous pouvez faire la commande en jeu **\sort** qui se charge de ranger automatiquement les items dans votre inventaire (non-hotbar).
+
+⚠️ **Attention** : Lors de l'exécution du tri (`sort`), le script prend temporairement le contrôle des mouvements et actions de votre joueur. N'utilisez pas votre clavier/souris pendant le processus.
+
+### Détail des commandes disponibles
+
+* `\set {numéro îlot}` : Définit ou réinitialise un coffre ou une zone d'îlot.
+* `\addTo {numéro de l'îlot} {numéro de ligne} {numéro de colonne}` : Ajoute l'item en main au coffre ciblé.
+* `\sort` : Lance la routine de rangement automatique. Le joueur se déplace vers les coffres correspondants et dépose les objets de son inventaire.
+* `\getInfo` : Affiche les informations relatives à l'item en main, s'il est ou non déjà dans la SdC.
