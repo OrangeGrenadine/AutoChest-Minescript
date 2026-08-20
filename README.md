@@ -38,3 +38,17 @@ Premièrement, rendez-vous en jeu. À vous de concevoir votre salle des coffres 
 
 * **Point de Référence Central (Centre de l'îlot) :** C'est le bloc (ici, un bloc d'or) qui sert d'ancrage pour définir l'îlot entier via la commande `/set {numéro de l'îlot}`.
 * **Piles de Stockage (Double Coffres) :** Les coffres sont regroupés par piles. Chacun d'entre eux est assigné à un identifiant (*îlot*, *ligne*, *colonne*).
+
+### Compléter la SdC
+
+À présent, vous devez informer le script de la configuration de votre SdC.
+
+1. Définissez vos îlots en vous plaçant sur un des blocs centrals et utilisez la commande en jeu **`\set {numéro de l'îlot}`**
+
+> Un fichier `.json` nommé **`SdC.json`** sera créé à la racine de votre instance dès que vous commencerez à définir vos îlots. C'est dans ce fichier que seront enregistrés vos différents items, associés au triplet du coffre correspondant défini plus tôt.
+
+2. Enregistrez un item en le prenant en main, puis en exécutant en jeu **`\addTo {numéro de l'îlot} {numéro de la ligne} {numéro de la colonne}`**.
+
+> C'est probablement l'étape la plus longue. Si vous le souhaitez, vous pouvez déplacer à la racine de votre instance le fichier `SdC.json` situé dans le dossier `biblio` du dépôt. Il s'agit de mon propre template de salle des coffres pré-rempli héhé :)
+
+Si vous vous demandez où est rangé un item spécifique, prenez-le en main et exécutez la commande **`\getInfo`** en jeu.
