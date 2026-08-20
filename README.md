@@ -10,3 +10,5 @@
 2. Téléchargez ce dépôt et placez l'ensemble des fichiers du dossier **Minescript** dans le dossier **exec** des scrips du mod :
    * Le chemin depuis votre instance devrait être : */.minecraft/minescript/system/exec*
 3. Lancez votre jeu Minecraft.
+
+> Mes tests ont eu lieu sur la version 26.2 (fabric)
