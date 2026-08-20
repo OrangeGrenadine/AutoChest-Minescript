@@ -7,7 +7,7 @@
 ## 🛠️ Installation
 
 1. Assurez-vous d'avoir installez le mod **Minescript** sur votre instance de Minecraft.
-2. Téléchargez ce dépôt et placez l'ensemble des fichiers du dossier **Minescript** dans le dossier **exec** des scrips du mod :
+2. Téléchargez ce dépôt et placez l'ensemble des fichiers du dossier **minescript** dans le dossier **exec** des scrips du mod :
    * Le chemin depuis votre instance devrait être : */.minecraft/minescript/system/exec*
 3. Lancez votre jeu Minecraft.
 
