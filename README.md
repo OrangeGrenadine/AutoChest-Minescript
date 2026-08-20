@@ -30,6 +30,8 @@ Premièrement, rendez-vous en jeu. À vous de concevoir votre salle des coffres 
 
 ⚠️ **Note :** L'image ci-dessous est un schéma explicatif de la façon dont le script perçoit votre construction. À vous de choisir la base de l'îlot, le bloc central, etc. Veillez à orienter les deux côtés avec les coffres à l'**Est** et à l'**Ouest**, et veillez à ce que l'îlot ne soit pas encombré.
 
+> Un schématique est disponible également pour vous aider à concevoir vos îlots
+
 <img src="exemple_ilot.png" alt="Schéma conceptuel des îlots de stockage AutoChest" width="800">
 
 **Explications** :
