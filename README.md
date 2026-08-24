@@ -4,10 +4,6 @@
 
 ---
 
-## 🎬 [![Démonstration de MineSorter](https://i9.ytimg.com/vi/CoqGcpnG2-U/mqdefault.jpg?sqp=CMyDndQG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgVShAMA8=&rs=AOn4CLAIliztgFaBAEu90uyoJjZ8VbNTAg)](https://www.youtube.com/watch?v=CoqGcpnG2-U)
-
----
-
 ## 🛠️ Installation
 
 1. Assurez-vous d'avoir installez le mod **Minescript** sur votre instance de Minecraft.
@@ -71,3 +67,5 @@ Si vous vous demandez où est rangé un item spécifique, prenez-le en main et e
 * `\addTo {numéro de l'îlot} {numéro de ligne} {numéro de colonne}` : Ajoute l'item en main au coffre ciblé.
 * `\sort` : Lance la routine de rangement automatique. Le joueur se déplace vers les coffres correspondants et dépose les objets de son inventaire.
 * `\getInfo` : Affiche les informations relatives à l'item en main, s'il est ou non déjà dans la SdC.
+
+## 🎬 [![Démonstration de MineSorter](https://i9.ytimg.com/vi/CoqGcpnG2-U/mqdefault.jpg?sqp=CMyDndQG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgVShAMA8=&rs=AOn4CLAIliztgFaBAEu90uyoJjZ8VbNTAg)](https://www.youtube.com/watch?v=CoqGcpnG2-U)
