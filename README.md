@@ -69,8 +69,4 @@ Si vous vous demandez où est rangé un item spécifique, prenez-le en main et e
 * `\getInfo` : Affiche les informations relatives à l'item en main, s'il est ou non déjà dans la SdC.
 
 
-## 🎬 Démonstration
-
-Cliquez sur l'image ci-dessous pour voir le script en action :
-
-[![Démonstration de MineSorter](https://i9.ytimg.com/vi/CoqGcpnG2-U/mqdefault.jpg?sqp=CMyDndQG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgVShAMA8=&rs=AOn4CLAIliztgFaBAEu90uyoJjZ8VbNTAg)](https://www.youtube.com/watch?v=CoqGcpnG2-U)
+## 🎬 [![Démonstration de MineSorter](https://i9.ytimg.com/vi/CoqGcpnG2-U/mqdefault.jpg?sqp=CMyDndQG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgVShAMA8=&rs=AOn4CLAIliztgFaBAEu90uyoJjZ8VbNTAg)](https://www.youtube.com/watch?v=CoqGcpnG2-U)
