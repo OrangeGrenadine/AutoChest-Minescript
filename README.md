@@ -47,8 +47,6 @@ Premièrement, rendez-vous en jeu. À vous de concevoir votre salle des coffres 
 
 > Un fichier `.json` nommé **`SdC.json`** sera créé à la racine de votre instance dès que vous commencerez à définir vos îlots. C'est dans ce fichier que seront enregistrés vos différents items, associés au triplet du coffre correspondant défini plus tôt.
 
-![Enregistrer un îlot](medias/Set.webm)
-
 2. Enregistrez un item en le prenant en main, puis en exécutant en jeu **`\addTo {numéro de l'îlot} {numéro de la ligne} {numéro de la colonne}`**.
 
 > C'est probablement l'étape la plus longue. Si vous le souhaitez, vous pouvez déplacer à la racine de votre instance le fichier `SdC.json` situé dans le dossier `biblio` du dépôt. Il s'agit de mon propre template de salle des coffres pré-rempli héhé :)
