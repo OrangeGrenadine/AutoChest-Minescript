@@ -4,7 +4,7 @@
 
 ---
 
-**MineSorter** is a set of Python scripts for [Minescript](https://minescript.net/) designed to fully automate your Minecraft chest sorting by creating *smart* storage islets.
+**This** is a set of Python scripts for [Minescript](https://minescript.net/) designed to fully automate your Minecraft chest sorting by creating *smart* storage islets.
 
 ---
 
