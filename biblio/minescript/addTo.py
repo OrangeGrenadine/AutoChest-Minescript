@@ -23,7 +23,7 @@ from Biblio_Rscript.json import load_json, save_json, create_SdC
 SDC_PATH = "SdC.json"
 
 # Langue utilisée pour les messages : "fr": français, "en": anglais
-LANGUAGE = "fr"
+LANGUAGE = "en"
 
 # Dictionnaire des messages, selon la langue choisie ci-dessus.
 MESSAGES = {
