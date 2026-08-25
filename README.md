@@ -2,7 +2,7 @@
 
 [ 🇫🇷 Français | [🇬🇧 English](README_EN.md) ]
 
-**MineSorter** est un ensemble de scripts Python pour [Minescript](https://minescript.net/) permettant d'automatiser entièrement le rangement de vos coffres dans Minecraft en créant des îlots de stockage *intelligents*.
+**AutoChest** est un ensemble de scripts Python pour [Minescript](https://minescript.net/) permettant d'automatiser entièrement le rangement de vos coffres dans Minecraft en créant des îlots de stockage *intelligents*.
 
 ---
 
